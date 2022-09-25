@@ -2,7 +2,13 @@ import java.util.Scanner;
 import java.util.Arrays;
 import java.util.List;
 import java.util.ArrayList;
-
+/**
+* The conversation implements an application that
+* carries a simple back and forth conversation with users  
+*
+* @author  Yujie Gong
+* @since   2022-09-25
+*/
 
 class Conversation {
   public static void main(String[] arguments) {
